@@ -1,4 +1,3 @@
-Para obtener todos los elementos ecepto "comment", porque es privado
 ## GET
 http://localhost:3000/api/diaries
 ## POST
