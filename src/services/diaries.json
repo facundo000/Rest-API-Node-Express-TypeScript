@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Pretty scary flight, I'm glad I'm alive",
+        "images": [
+            "https://www.blogdelfotografo.com/wp-content/uploads/2018/12/rain-275317_1920.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "date": "2019-05-11",
+        "weather": "cloudy",
+        "visibility": "ok",
+        "comment": "Pretty scary flight, I'm glad I'm alive",
+        "images": [
+            "https://img.fotocommunity.com/esta-nublado-a77b1e36-78af-42f9-b9ca-739b451c6b45.jpg"
+        ]
+    }
+]
