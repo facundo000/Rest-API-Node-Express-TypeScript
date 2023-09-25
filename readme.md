@@ -9,4 +9,6 @@ http://localhost:3000/api/diaries
 	"images":["https://www.blogdelfotografo.com/wp-content/uploads/2018/12/rain-275317_1920.jpg"],
 	"comment": "comentario oculto"
 }
+```
+
 ## Falta obtener "comment"
